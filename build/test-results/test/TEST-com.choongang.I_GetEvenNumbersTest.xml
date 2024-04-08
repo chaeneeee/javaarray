@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.choongang.I_GetEvenNumbersTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-04-08T08:46:02" hostname="BOOK-LCCUUB9T5H" time="0.012">
+  <properties/>
+  <testcase name="[27, 8, 23, 24, 98, 7]을(를) 입력받은 경우, [8, 24, 98]을(를) 리턴해야 합니다" classname="com.choongang.I_GetEvenNumbersTest" time="0.01"/>
+  <testcase name="빈 배열을 입력받은 경우, 빈 배열을 리턴해야 합니다." classname="com.choongang.I_GetEvenNumbersTest" time="0.0"/>
+  <testcase name="[27, 1, 11, 23, 7]을(를) 입력받은 경우, 빈 배열을 리턴해야 합니다" classname="com.choongang.I_GetEvenNumbersTest" time="0.001"/>
+  <testcase name="[3, 2, 10, 5, 8]을(를) 입력받은 경우, [2, 10, 8]을(를) 리턴해야 합니다" classname="com.choongang.I_GetEvenNumbersTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
